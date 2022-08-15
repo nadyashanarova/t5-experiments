@@ -1,6 +1,7 @@
 # NLP project: How does a Transformer solve a task by Shanarova Nadezhda, SPBU
 
-**nadya.shanarova@gmail.com
+nadya.shanarova@gmail.com
+
 __Goal:__ discover attention patterns in a trained model
 __Tasks:__ 
 - research visualization methods
