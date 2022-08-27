@@ -1,4 +1,4 @@
-# NLP project: How does a Transformer solve a task by Shanarova Nadezhda, SPBU
+# NLP project: How does a Transformer solve a task by Shanarova Nadia
 
 nadya.shanarova@gmail.com
 
